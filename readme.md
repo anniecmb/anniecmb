@@ -2,19 +2,17 @@
 
 ### Champs d'intérêt
 
-voyage, surf, vélo
+* Voyage
+* Surf
+* Vélo
 
-###Perspectives de carrière
+### Perspectives de carrière
 
-Markup :
-* Bullet list
-* Bullet list
-* Bullet list
+* Développement Web
+* Développement front-end
+* Marketing Web
+* Analyse de performance
 
-
-Développement Web
-Développement front-end
-Marketing Web
-Analyse de performance
+### Courriel
 
 annieclaude.mb@gmail.com
